@@ -1,0 +1,46 @@
+{
+	"@metadata": {
+		"authors": [
+			"default"
+		],
+		"last-updated": "2018-01-20",
+		"locale": "en",
+		"message-documentation": "-"
+	},
+	"message_page_title" : "Images Annotation Programme",
+	"message_label_tag" : "Tag",
+	"message_label_tags_view" : "Tags View",
+	
+	"message_user_welcome" : "Welcome !",
+	"message_user_welcome_back" : "Welcome back !",
+	"message_region_too_small": "The region is too small (must be >80px).",
+	"message_tag_not_set_small_small" : "Tag was not set, the region is too small.",
+	"message_create_region_before_submit" : "Create at least one region with a tag before submitting.",
+	"message_tag_each_region" : "You should add a tag to each region.",
+	"message_tag_the_region" : "You should add a tag to the region.",
+	"message_tag_not_predefined" : "This tag is not in the predefined list.",
+	"message_tag_empty" : "You need to enter a tag here",
+	
+	"message_annotations_display_all" : "All",
+	"message_annotations_display_all_tooltip" : "Display all Annotations",
+	"message_annotations_hide_all" : "None",
+	"message_annotations_hide_all_tooltip" : "Hide the Annotations",
+	"message_annotations_display_one_tooltip" : "Click to display next annotation",
+	
+	"message_image_next_ignore" : "Ignore & Get next image",
+	"message_image_next_ignore_tooltip" : "Ignore this image and associated tags and go to the next image.",
+	
+	"message_leave" : "Leave",
+	"message_leave_tooltip" : "Leave this page, cancel all tags of this image. Validated tags will be kept.",
+	
+	"message_unable_send_check_con" : "Unable to send data, please retry or check your connection.",
+	"message_data_sent" : "Data has been sent.",
+	"message_status_region_selected" : "Region has been selected.",
+	"message_status_tag_set" : "Tag has been set.",
+	"message_select_picture_region" : "> Select a region from the picture.",
+	"message_add_highlighted_region_tag" : "Add highlighted region with associated tag.",
+	"message_set_tag" : "Set Tag",
+	"message_validate_get_next_image" : "Validate & Get next Image",
+	"message_validate_get_next_image_tooltip" : "Validate all the tags added to this image and go to the next image."
+	
+}

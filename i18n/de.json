@@ -1,0 +1,47 @@
+{
+	"@metadata": {
+		"authors": [
+			"Patrick"
+		],
+		"last-updated": "2018-01-20",
+		"locale": "de",
+		"message-documentation": "-"
+	},
+	
+	"message_page_title" : "Bildbeschreibung Editor",
+	"message_label_tag" : "Beschreibung",
+	"message_label_tags_view" : "Beschreibbungsansicht",
+	
+	"message_user_welcome" : "Willkommen !",
+	"message_user_welcome_back" : "Willkommen zurück!",
+	"message_region_too_small": "Die Region ist zu klein (mindestens >80px).",
+	"message_tag_not_set_small_small" : "Tag nicht gesetzt, Region zu klein.",
+	"message_create_region_before_submit" : "Erstelle vor dem senden mindestens eine Region.",
+	"message_tag_each_region" : "Jeder Region muss ein Tag zugeordnet werden.",
+	"message_tag_the_region" : "Der Region muss ein Beschreibung zugeordnet werden.",
+	"message_tag_not_predefined" : "Die Beschreibung ist nicht in der Vorgabenliste.",
+	"message_tag_empty" : "You need to enter a tag here",
+	
+	"message_annotations_display_all" : "Alle",
+	"message_annotations_display_all_tooltip" : "Zeige alle Beschreibungen",
+	"message_annotations_hide_all" : "Keine",
+	"message_annotations_hide_all_tooltip" : "Verstecke alle Beschreibungen",
+	"message_annotations_display_one_tooltip" : "Nächste Beschreibung zeigen",
+	
+	"message_image_next_ignore" : "Ignorieren & nächstes Bild",
+	"message_image_next_ignore_tooltip" : "Ignoriere Bild und Beschreibungen und zeige nächstes.",
+	
+	"message_leave" : "Verlassen",
+	"message_leave_tooltip" : "Verlasse die Seite, ignoriere dieses Bild. Alle übermittelten Beschreibungen bleiben gespeichert.",
+	
+	"message_unable_send_check_con" : "Senden nicht möglich, überprüfen Sie die Verbidung und versuchen Sie es erneut.",
+	"message_data_sent" : "Daten wurden übermittelt.",
+	"message_status_region_selected" : "Region wurde gewählt.",
+	"message_status_tag_set" : "Beschreibung wurde gesetzt.",
+	"message_select_picture_region" : "> Wähle eine Bildregion.",
+	"message_add_highlighted_region_tag" : "Füge gewählte Region mit zurehöriger Beschreibung hinzu.",
+	"message_set_tag" : "Setze Beschreibung",
+	"message_validate_get_next_image" : "Übermitteln und zum nächsten Bild",
+	"message_validate_get_next_image_tooltip" : "Übermittle alle bildbeschreibungen und gehe zum nächsten Bild."
+	
+}
